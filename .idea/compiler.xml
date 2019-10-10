@@ -10,5 +10,9 @@
         <module name="1 SCChallengeEmail" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="SCChallengeEmail.main" target="1.8" />
+      <module name="SCChallengeEmail.test" target="1.8" />
+    </bytecodeTargetLevel>
   </component>
 </project>
