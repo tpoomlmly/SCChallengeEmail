@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="SCChallengeEmail:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/SCChallengeEmail_jar</output-path>
+    <root id="archive" name="SCChallengeEmail.jar">
+      <element id="module-output" name="SCChallengeEmail" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/jsoup/jsoup/1.12.1/jsoup-1.12.1.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
